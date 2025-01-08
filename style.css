@@ -65,6 +65,11 @@ nav a:hover {
   padding: 20px;
 }
 
+.hero h1, .hero p {
+  max-width: 600px; /* Adjust the width as needed */
+  margin: 0 auto;
+}
+
 .hero h1 {
   font-size: 55px;
   color: #ee0000;
