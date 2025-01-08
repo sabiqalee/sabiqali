@@ -133,6 +133,12 @@ section p {
   color: #666;
 }
 
+.portfolio-item iframe {
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
 /* Footer */
 footer {
   text-align: center;
