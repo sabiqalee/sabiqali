@@ -58,7 +58,7 @@ nav a:hover {
   align-items: center;
   justify-content: center;
   height: 80vh;
-  background: linear-gradient(to bottom, #ffcdad73, #ffffff);
+  background-image: url('img_girl.jpg');
   text-align: center;
   padding: 20px;
 }
