@@ -57,8 +57,10 @@ nav a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 20vh;
+  height: 80vh;
   background-image: url('AntiUrban_BW.jpg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
   text-align: center;
   padding: 20px;
 }
